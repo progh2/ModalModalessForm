@@ -36,16 +36,16 @@
             // 
             this.btmModal.Location = new System.Drawing.Point(12, 27);
             this.btmModal.Name = "btmModal";
-            this.btmModal.Size = new System.Drawing.Size(186, 141);
+            this.btmModal.Size = new System.Drawing.Size(223, 141);
             this.btmModal.TabIndex = 1;
             this.btmModal.Text = "모달창 띄우기";
             this.btmModal.UseVisualStyleBackColor = true;
             // 
             // btnModaless
             // 
-            this.btnModaless.Location = new System.Drawing.Point(204, 27);
+            this.btnModaless.Location = new System.Drawing.Point(241, 27);
             this.btnModaless.Name = "btnModaless";
-            this.btnModaless.Size = new System.Drawing.Size(186, 141);
+            this.btnModaless.Size = new System.Drawing.Size(230, 141);
             this.btnModaless.TabIndex = 4;
             this.btnModaless.Text = "모달리스창 띄우기";
             this.btnModaless.UseVisualStyleBackColor = true;
@@ -54,13 +54,13 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(402, 201);
+            this.ClientSize = new System.Drawing.Size(483, 201);
             this.Controls.Add(this.btnModaless);
             this.Controls.Add(this.btmModal);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.Name = "FormMain";
-            this.Text = "Modal & Modaless 창 띄우기";
+            this.Text = "Modal & Modaless 창 띄우기 by 3199 ㅇㅇㅇ";
             this.ResumeLayout(false);
 
         }
